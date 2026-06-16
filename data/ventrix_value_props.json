@@ -1,0 +1,198 @@
+{
+  "product_facts": {
+    "speed_per_car_seconds": "10-15",
+    "manual_minutes_per_car": "20-25",
+    "lead_ping_escalation_minutes": [5, 30, 60],
+    "concierge_setup_days": 5,
+    "main_competitor": "Shiftly Auto",
+    "PUBLIC_CONTENT_RULE": "NEVER reveal pricing in any public-facing content. CTAs use 'DM us' / 'book a free trial' / 'schedule a call' instead. Pricing is private — only disclosed on Calendly intro call."
+  },
+  "value_props": [
+    {
+      "id": "speed",
+      "claim": "Posts cars to Marketplace in 10-15 seconds vs 20-25 minutes manually",
+      "audience": "both",
+      "hooks": [
+        "20 cars in 4 minutes. Your team takes 8 hours.",
+        "Manual posting: 22 minutes per car. Ventrix: 12 seconds.",
+        "30 cars × 22 min = 11 hours. 30 cars × 12 sec = 6 minutes."
+      ]
+    },
+    {
+      "id": "lead_engine",
+      "claim": "Phone pings 5 min after a Marketplace buyer messages — escalates every 30/60 min",
+      "audience": "both",
+      "hooks": [
+        "Lead came in at 11pm. You knew at 11:05pm.",
+        "Your competition replies in 4 hours. You reply in 5 minutes.",
+        "We don't auto-reply to your leads. We make sure your phone buzzes the second they hit send."
+      ]
+    },
+    {
+      "id": "auto_takedown",
+      "claim": "Car marked sold in DMS = Marketplace listing pulled automatically",
+      "audience": "dealer",
+      "hooks": [
+        "The car you sold this morning is still live on Marketplace. Unless you use Ventrix.",
+        "Stop the wholesale buyer calls about cars you sold last month.",
+        "Sold in DMS → gone from Marketplace. Zero clicks."
+      ]
+    },
+    {
+      "id": "concierge",
+      "claim": "Founder personally handles days 1-5 of every dealer's setup",
+      "audience": "dealer",
+      "hooks": [
+        "Shiftly makes you wrangle the API. We do it for you in 5 days.",
+        "No API keys to chase. We handle setup. You just sign in.",
+        "We install it ourselves. Your competition is still on hold with support."
+      ]
+    },
+    {
+      "id": "manager_dashboard",
+      "claim": "Track every rep's posts — posted-by name, success rate, hours saved",
+      "audience": "dealer",
+      "hooks": [
+        "See which rep actually worked Marketplace this week.",
+        "Your BDC's productivity, on one screen.",
+        "Manager dashboard shows every post, every rep, every minute saved."
+      ]
+    },
+    {
+      "id": "salesperson_personal",
+      "claim": "Individual reps can use Ventrix without the dealership buying it",
+      "audience": "salesperson",
+      "hooks": [
+        "Your sales manager doesn't need to know.",
+        "Your coworker takes 22 minutes per car. You take 12 seconds. Math wins.",
+        "Top sales rep at the lot. You think it's talent. It's Ventrix."
+      ]
+    },
+    {
+      "id": "fb_business_page_killed",
+      "claim": "Facebook removed Business Page Marketplace posting — Ventrix is the workaround",
+      "audience": "both",
+      "hooks": [
+        "Facebook removed Business Page Marketplace. We didn't.",
+        "If your team is still posting from personal accounts one car at a time, you're losing.",
+        "The Marketplace channel didn't die. The way you used to use it did."
+      ]
+    },
+    {
+      "id": "vs_shiftly",
+      "claim": "Same job, less friction, plus the Lead Engine they don't have",
+      "audience": "dealer",
+      "hooks": [
+        "Shiftly: API setup, dealer-side. Ventrix: concierge, founder-side.",
+        "Shiftly posts. Ventrix posts AND pings your phone when leads come in.",
+        "Same speed. Different sport."
+      ]
+    }
+  ],
+  "post_formats": [
+    {
+      "name": "Cluely-style founder POV",
+      "platform": "X/Reels",
+      "structure": "Founder talking-head, 15-30 sec, one bold cocky claim, lowercase caption with proof number",
+      "example": "made $X in week 1. here's the exact way we did it. [thread]",
+      "ventrix_fit": "5/5"
+    },
+    {
+      "name": "Resend-style launch announcement",
+      "platform": "X",
+      "structure": "Three-line spec list + one terminal/screenshot, mono font",
+      "example": "Today we're launching Ventrix v2. • 47 features • Built in 30 days • Free week trial",
+      "ventrix_fit": "5/5"
+    },
+    {
+      "name": "Linear-style monochrome statement",
+      "platform": "X/IG",
+      "structure": "Single bold sentence on solid dark background, no decoration, brand wordmark bottom-left",
+      "example": "Posting cars is a craft. Ventrix.",
+      "ventrix_fit": "5/5"
+    },
+    {
+      "name": "Contrarian one-liner + screenshot",
+      "platform": "X",
+      "structure": "One sentence reframing the category, paired with one artifact (graph, screenshot)",
+      "example": "Dealers don't have an inventory problem. They have a 'posting it' problem. [screenshot]",
+      "ventrix_fit": "5/5"
+    },
+    {
+      "name": "Side-by-side comparison",
+      "platform": "All",
+      "structure": "Two-column visual: 'manual' vs 'Ventrix' with timer numbers",
+      "example": "[22:43 manual timer] vs [00:12 Ventrix timer]",
+      "ventrix_fit": "5/5"
+    },
+    {
+      "name": "POV: you're",
+      "platform": "TikTok/Reels",
+      "structure": "First-person camera, text overlay 'POV:' + scenario, 8-15 sec",
+      "example": "POV: your phone buzzes — Ventrix flagged a Marketplace lead 5 minutes ago",
+      "ventrix_fit": "5/5"
+    },
+    {
+      "name": "Tweet card screenshot",
+      "platform": "IG/LinkedIn",
+      "structure": "Image designed to look like a real Ventrix tweet — handle, checkmark, body, timestamp",
+      "example": "Tweet: 'Posted 47 cars to Marketplace today. Total time: 9 minutes. Other dealers: 14 hours.'",
+      "ventrix_fit": "5/5"
+    },
+    {
+      "name": "Receipts-as-flex (one stat)",
+      "platform": "X",
+      "structure": "One number in the hook, one consequence below it, no fluff",
+      "example": "47 cars posted today. 9 minutes total. That's Ventrix.",
+      "ventrix_fit": "5/5"
+    },
+    {
+      "name": "Numbered tactical thread",
+      "platform": "X",
+      "structure": "Proof number in the hook, then 5-10 numbered tactical points",
+      "example": "Posted 1,200 cars in 30 days using Ventrix. Here's the exact stack: 1. Chrome extension...",
+      "ventrix_fit": "4/5"
+    },
+    {
+      "name": "Photo dump beat snap (CapCut)",
+      "platform": "TikTok/Reels",
+      "structure": "Hook image → 7 rapid screenshot snaps to beat → final CTA hold",
+      "example": "Cars I posted before my coffee got cold (7 VDP screenshots, end card with Ventrix logo)",
+      "ventrix_fit": "5/5"
+    },
+    {
+      "name": "Text confession to beat (CapCut)",
+      "platform": "TikTok/Reels",
+      "structure": "One line per beat for 8 beats, reveal on beat 9",
+      "example": "I post 30 cars / before lunch / leads ping me in 5 min / I beat Carlos every day / [beat 9: 'Carlos still uses Marketplace Manager']",
+      "ventrix_fit": "5/5"
+    },
+    {
+      "name": "Algorithm A/B",
+      "platform": "Reels",
+      "structure": "High-effort edit vs deadpan static, same Reel, ask 'which does the algo prefer'",
+      "example": "Manual posting (sped-up 25-min recording) vs Ventrix (12-sec click)",
+      "ventrix_fit": "5/5"
+    }
+  ],
+  "voice_rules": [
+    "Cocky, not corporate",
+    "Specific numbers > vague claims",
+    "Lowercase X captions when in doubt",
+    "No emojis in headlines, sparingly in body",
+    "Direct second-person — talk to the dealer/rep like you're next to them",
+    "Reference Facebook Marketplace, dealers, BDC, salespeople — never 'streamline your workflow'"
+  ],
+  "banned_phrases": [
+    "innovative SaaS solution",
+    "streamline your workflow",
+    "supercharge",
+    "revolutionize",
+    "10x your X",
+    "synergy",
+    "leverage",
+    "game-changer",
+    "next-gen",
+    "AI-powered"
+  ]
+}
