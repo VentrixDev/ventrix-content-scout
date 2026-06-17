@@ -19,8 +19,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Run scout
-        run: python scout/scout.py
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run multi-agent scout
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m scout.orchestrator
 
       - name: Commit the new brief
         run: |

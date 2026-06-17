@@ -4,21 +4,33 @@ Automated weekly content brief for Ventrix's social media (IG, X, TikTok, Linked
 
 **Output:** every Sunday night, a fresh `briefs/week-of-YYYY-MM-DD.md` with 21 posts ready (3/day × 7 days), mapped to Ventrix's value props and audiences (dealers + individual salespeople).
 
-## How it works
+## How it works (multi-agent v2)
 
 1. **GitHub Action fires every Sunday at 2pm EST** (`.github/workflows/weekly.yml`)
-2. `scout/scout.py` runs:
-   - Pulls trending posts from Reddit (r/SaaS, r/startups, r/marketing, r/Entrepreneur, r/smallbusiness) via free JSON API
-   - Pulls Hacker News front page via Firebase API
-   - Filters to B2B-SaaS-relevant signals only
-   - Generates 21 posts using the rotation engine in `data/ventrix_value_props.json`
-3. **Auto-commits** the new brief to `briefs/`
+2. `scout/orchestrator.py` runs 4 research agents + 1 prospect hunter + 1 synthesizer:
+   - **x_scout** — viral B2B SaaS posts on X from last 7 days
+   - **reddit_scout** — founder-story posts from r/SaaS, r/Entrepreneur, r/startups
+   - **meme_scout** — currently trending CapCut templates + TikTok sounds
+   - **competitor_scout** — Shiftly + CARVID + dealer SaaS competitor moves
+   - **prospect_hunter** — Instagram + Facebook car salespeople, cross-verified via LinkedIn
+   - **synthesizer** — Sonnet model produces the 21-post weekly brief from all intel
+3. **Auto-commits** brief + prospect CSVs + raw intel to the repo
 
-## Cost: $0/month
+## Cost: ~$1-3/week
 
-- GitHub Actions: free (2,000 minutes/month — we use ~2 min/week)
-- Reddit + HN APIs: free, no auth
-- No LLM API calls — uses deterministic template engine
+- GitHub Actions: free
+- Anthropic API: Haiku for research passes + Sonnet for synthesis
+- Web search: ~$10 per 1000 queries (we use ~30/week = ~$0.30)
+
+## Blake's interactive chat agent
+
+```bash
+python -m scout.chat
+```
+
+Loads the latest brief + prospect list + raw intel. Blake asks questions like
+"which post should I make today" or "draft a DM for prospect #3" and gets cocky,
+specific answers — with web search if needed.
 
 ## How Blake uses it
 
