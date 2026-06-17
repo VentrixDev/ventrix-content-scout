@@ -82,20 +82,31 @@ Paste 5-8 of the strongest specific URLs from the intel above with a one-line "w
 Summarize 2-3 competitor moves from the intel + the counter-angle Ventrix can take.
 
 ## 📅 {total_posts} posts — 3 per day for {days} day(s)
-Use the EXACT day labels listed above, in order. For each day, three posts. For each post:
+
+⚠️ HARD RULE: every post MUST be a direct recreation of a real trending post from the intel sections above. No invented hooks. No "ideas." Pick a specific URL, quote its actual hook, then write the Ventrix version that maps it 1:1.
+
+If you do not have a real specific trending URL with a real hook from the intel for a given slot, say so explicitly in that slot (e.g. "⚠️ no live signal matched this slot — Blake, post format X using your own copy") rather than inventing one.
+
+Use the EXACT day labels listed above, in order. For each day, three posts. For each post use THIS exact structure:
+
 - **Audience:** [SALESPERSON] / [OWNER] / [BOTH]
 - **Platform:** (X / IG / TikTok / LinkedIn)
-- **Format:** (the trending format from the intel it borrows from)
-- **Hook to use** (the actual first line — 1-2 lines max)
-- **Body / structure** (2-4 lines, what comes after the hook)
-- **CTA** (which non-pricing CTA closes it)
-- **🔥 Riding off:** (one trending signal URL with one-sentence reason)
+- **🎯 The trending post we're stealing from:**
+  - URL: <the exact URL from the intel sections>
+  - Creator: <handle>
+  - Engagement: <view/like count from the intel>
+  - Their actual hook (quoted verbatim from the intel): "<their exact opening line>"
+  - Why it worked: <one sentence from the intel>
+- **🔁 Ventrix version of that post:**
+  - **Hook (paste-ready):** <one-line Ventrix opener that mirrors the trending hook's structure word-for-word>
+  - **Body / structure (paste-ready):** <2-4 lines following the same beat as the original>
+  - **CTA:** <non-pricing CTA>
 
-Audience mix target: ~70% SALESPERSON (Blake's primary funnel), ~20% OWNER, ~10% BOTH. Salespeople convert faster — weight them heavier.
+Audience mix target: ~70% SALESPERSON (Blake's primary funnel), ~20% OWNER, ~10% BOTH.
 
-POSITIONING ORDER (use this every post): time savings is the headline (22 min vs 12 sec per car). Features are second. Ban safety is ONLY for posts comparing against CARVID/Shiftly/AutoXcel — never lead with it.
+POSITIONING ORDER (every post): time savings is the headline (22 min vs 10-15 sec per car). Features are second. Ban safety is ONLY for posts comparing to CARVID/Shiftly/AutoXcel — never lead with it.
 
-Variety mandate: don't repeat the same format twice in a row. Rotate at least 6 different formats.
+Variety mandate: every post must reference a DIFFERENT trending URL. If the intel only contains N unique URLs and you need more posts than N, repeat the highest-engagement ones first.
 
 Output ONLY the markdown brief. No preamble."""
 
