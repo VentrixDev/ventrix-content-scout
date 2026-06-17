@@ -28,11 +28,17 @@ Ventrix value props (only claim what is true today):
 DO NOT claim (roadmap, not today):
 - Auto-calling leads, auto-texting leads, auto-booking test drives, drip sequences.
 
-Brand voice: punchy, cocky, specific. Specific numbers > vague claims. Cocky, not corporate. No emojis in headlines.
+Brand voice: write like a sharp car salesperson texting another salesperson. NOT like a marketing AI. Specific numbers beat vague claims. Cocky, not corporate.
 
-PUBLIC CONTENT RULE: NEVER include pricing ($1,500, $499, $300, $100, any monthly amount) in any post. CTAs are "DM us", "book a free trial", "schedule a call", "ventrix.tech".
+Voice rules every post obeys (these matter):
+- No em-dashes. Use periods and commas. If you need a pause, start a new sentence.
+- No square brackets inside the hook or body copy. (Brackets are fine ONLY in the metadata labels like Audience: SALESPERSON, but never inside the actual hook the dealer will read.)
+- No markdown bullets in the hook or body. Write in sentences. Real humans don't talk in hyphens.
+- No "🚀" "✨" "💯" emoji spam. One emoji per post max, and only if it earns its place.
+- No banned phrases: "innovative SaaS solution", "streamline your workflow", "supercharge", "revolutionize", "10x", "synergy", "leverage", "game-changer", "next-gen", "AI-powered". Auto-fail if you use any.
+- Read each hook aloud in your head. If it sounds like a press release, rewrite it as something a salesperson would actually text. If it sounds like a tweet from a real person, ship it.
 
-Banned phrases: "innovative SaaS solution", "streamline your workflow", "supercharge", "revolutionize", "10x your X", "synergy", "leverage", "game-changer", "next-gen", "AI-powered"."""
+PUBLIC CONTENT RULE: NEVER include pricing ($1,500, $499, $300, $100, any monthly amount) in any post. CTAs are exactly: "DM us", "book a free trial", "schedule a call", "ventrix.tech". Nothing else."""
 
 
 def build_user_prompt(
@@ -98,9 +104,9 @@ Use the EXACT day labels listed above, in order. For each day, three posts. For 
   - Their actual hook (quoted verbatim from the intel): "<their exact opening line>"
   - Why it worked: <one sentence from the intel>
 - **🔁 Ventrix version of that post:**
-  - **Hook (paste-ready):** <one-line Ventrix opener that mirrors the trending hook's structure word-for-word>
-  - **Body / structure (paste-ready):** <2-4 lines following the same beat as the original>
-  - **CTA:** <non-pricing CTA>
+  - **Hook (paste-ready):** <one line. Sounds like a real salesperson wrote it. No em-dashes. No brackets. Specific number from the time-savings frame.>
+  - **Body / structure (paste-ready):** <2 to 4 lines. Each sentence ends with a period. No bullets. No em-dashes. No brackets. Reads like a text from one car person to another.>
+  - **CTA:** <"DM us" or "book a free trial" or "schedule a call" or "ventrix.tech". Nothing else.>
 
 Audience mix target: ~70% SALESPERSON (Blake's primary funnel), ~20% OWNER, ~10% BOTH.
 
