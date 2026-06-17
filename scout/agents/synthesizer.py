@@ -87,13 +87,35 @@ Paste 5-8 of the strongest specific URLs from the intel above with a one-line "w
 ## 🥊 Competitor watch
 Summarize 2-3 competitor moves from the intel + the counter-angle Ventrix can take.
 
-## 📅 {total_posts} posts — 3 per day for {days} day(s)
+## Posts
 
 ⚠️ HARD RULE: every post MUST be a direct recreation of a real trending post from the intel sections above. No invented hooks. No "ideas." Pick a specific URL, quote its actual hook, then write the Ventrix version that maps it 1:1.
 
-If you do not have a real specific trending URL with a real hook from the intel for a given slot, say so explicitly in that slot (e.g. "⚠️ no live signal matched this slot — Blake, post format X using your own copy") rather than inventing one.
+If you do not have a real specific trending URL with a real hook from the intel for a given slot, say so explicitly in that slot (e.g. "no live signal matched this slot. Blake, post format X using your own copy") rather than inventing one.
 
-Use the EXACT day labels listed above, in order. For each day, three posts. For each post use THIS exact structure:
+OUTPUT STRUCTURE — copy this format EXACTLY, the dashboard parses it:
+
+For each day, write an H2 day heading (## Wednesday Jun 17). Under each day, three posts. Each post is an H3 heading "### Wednesday Jun 17 · Post 1: <format name>". Then under each H3, the labeled fields below. Use {days} H2 day blocks total, in the day order listed at the top of this prompt.
+
+EXAMPLE OF ONE FULLY-FORMATTED POST:
+
+## Wednesday Jun 17
+
+### Wednesday Jun 17 · Post 1: POV Speed Ramp
+
+- **Audience:** SALESPERSON
+- **Platform:** TikTok
+- **🎯 Trending source URL:** https://www.tiktok.com/@example/video/123
+- **Creator:** @example
+- **Engagement:** 2.3M views
+- **Their hook (verbatim from intel):** their actual opening line here
+- **Why it worked:** one-sentence reason from the intel
+- **Hook to use:** one line. Sounds like a real salesperson wrote it. No em-dashes. No brackets. Specific time-savings number.
+- **Format structure:** 2 to 4 lines of body copy. Each sentence ends with a period. No bullets. Reads like a text from one car person to another.
+- **CTA:** DM us  (or: book a free trial / schedule a call / ventrix.tech)
+- **🔥 Riding off:** https://www.tiktok.com/@example/video/123 — one sentence on why this signal informed the post.
+
+REPEAT that structure for every post. Do NOT use "**Post 1 of N**" as a separator. Each post is its own ### heading. Each day is its own ## heading.
 
 - **Audience:** [SALESPERSON] / [OWNER] / [BOTH]
 - **Platform:** (X / IG / TikTok / LinkedIn)

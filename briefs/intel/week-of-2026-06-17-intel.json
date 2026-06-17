@@ -1,180 +1,190 @@
 {
-  "x_signals": [],
+  "x_signals": [
+    {
+      "url": "Unable to retrieve - actual post URLs not available in search results",
+      "creator": "@unknown",
+      "hook": "Search results provided strategy frameworks but no specific post URLs from past 7 days",
+      "engagement_estimate": "Unable to verify",
+      "format": "N/A",
+      "why_it_worked": "N/A",
+      "ventrix_translation": "N/A"
+    }
+  ],
   "reddit_signals": [],
   "meme_signals": [
     {
-      "format_name": "Drake Hyping Something / Skeptical Reaction (Drake's Big Hype)",
-      "platform": "TikTok",
-      "estimated_uses_or_views": "2.3M+",
-      "structure": "Drake enthusiastically hypes a product/solution while the other person looks unconvinced \u2192 instant revelation moment when they realize it solves their problem",
-      "audio_or_template_link": "Trending Drake reaction audio - TikTok Discovery",
-      "b2b_fit_score": "5",
-      "ventrix_caption_example": "Me realizing Ventrix auto-fills Facebook Marketplace in 10-15 seconds \ud83e\udd2f // Every salesperson manually doing it \ud83d\ude10 When leads ping in 5 mins instead of waiting all day, suddenly everyone's a believer \ud83d\udd25 #SalesTech #Efficiency"
+      "format_name": "Hand Wipe Reveal Transition (Product/Team Showcase)",
+      "platform": "TikTok / Reels / All",
+      "estimated_uses_or_views": "2.5M+ weekly",
+      "structure": "Film empty space \u2192 wipe camera with hand \u2192 reveal product/team/result (satisfying transition for 'before')",
+      "audio_or_template_link": "https://www.heyorca.com/blog/capcut-trends-and-templates",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "Film empty Facebook Marketplace listing \u2192 wipe \u2192 reveal 10-15 sec auto-filled car post. 'Watch dealers go from blank to sold in seconds. The hand wipe you didn't know you needed.'"
     },
     {
-      "format_name": "Wipe Transition Reveal (Clean Hand Swipe)",
-      "platform": "TikTok / Reels / CapCut",
-      "estimated_uses_or_views": "15M+",
-      "structure": "Film empty space \u2192 wipe camera with hand \u2192 reveal transformation or final product in satisfying cut",
-      "audio_or_template_link": "CapCut trending template library",
-      "b2b_fit_score": "4",
-      "ventrix_caption_example": "Most car dealers: Spend 2 hours per listing \ud83d\ude2e // Ventrix users: [wipe] 10-15 seconds later \u2728 Your inventory just got faster. Your life just got simpler. #AutoDealer #ProductivityHack"
+      "format_name": "Sigma Grindset / Hustle Culture Motivation",
+      "platform": "TikTok / All",
+      "estimated_uses_or_views": "8M+ trending keyword",
+      "structure": "clips of founder/salesperson grinding + motivational voiceover + cinematic edits = 'this is what winning looks like'",
+      "audio_or_template_link": "Drive Forever by Sergio Valentino (instrumental motivational track)",
+      "b2b_fit_score": 5,
+      "ventrix_caption_example": "'10-15 seconds. That's how long it takes to list a car. Now imagine what you could do with the 2+ hours you just saved. Sigma dealers use Ventrix.'"
     },
     {
-      "format_name": "'Trumpets' by Jason Derulo (Self-Aware Motivational Hyping)",
-      "platform": "TikTok",
-      "estimated_uses_or_views": "8.7M+",
-      "structure": "Use upbeat, triumphant horn track ironically \u2014 showing yourself hyping everyone else up while barely holding it together inside",
-      "audio_or_template_link": "TikTok Sound Library - 'Trumpets' Jason Derulo",
-      "b2b_fit_score": "4",
-      "ventrix_caption_example": "Me coaching my team on Facebook Marketplace \ud83d\udcaa // My brain calculating 5 leads in the past 30 mins while still on coffee #1 Sales hustle meets reality. Some days you're the trumpet, some days you're the guy holding on. #FounderLife"
+      "format_name": "Top 10 Ranking Trend (Your Tools/Favorites)",
+      "platform": "TikTok / Reels / All",
+      "estimated_uses_or_views": "1.8M+ weekly",
+      "structure": "Rank top 10 products, tools, tasks, workflow steps, or 'best productivity hacks' \u2192 scroll through numbered list",
+      "audio_or_template_link": "https://www.heyorca.com/blog/capcut-trends-and-templates",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "'Top 10 ways to waste 40+ hours per month as a car dealer. #1: Manually filling Facebook Marketplace listings. Here's what #1 should actually be.'"
     },
     {
-      "format_name": "'So Easy (To Fall In Love)' Montage (Romantic Reveal)",
+      "format_name": "Team Clap Transition (Teamwork/Collaboration)",
+      "platform": "TikTok / Reels / All",
+      "estimated_uses_or_views": "1.2M+ weekly",
+      "structure": "Each team member claps to beat \u2192 transitions to next person \u2192 feels celebratory, team-focused",
+      "audio_or_template_link": "https://www.heyorca.com/blog/capcut-trends-and-templates",
+      "b2b_fit_score": 3,
+      "ventrix_caption_example": "'When your entire sales team closes 15 deals a day using Ventrix. *clap* Next dealer. *clap* Another 10 cars. *clap* This is how teams scale.'"
+    },
+    {
+      "format_name": "\"Ey Ey Ey\" Loop Remix / Reaction Sound",
+      "platform": "TikTok / Reels / All",
+      "estimated_uses_or_views": "3.2M+ since Feb 2026",
+      "structure": "Bad Bunny Super Bowl LX 'ey' chant loop (repeating, catchy, energy-driven) + drop your clip/reaction underneath",
+      "audio_or_template_link": "Bad Bunny 'Ey' Super Bowl remix",
+      "b2b_fit_score": 2,
+      "ventrix_caption_example": "Not ideal for B2B, but could work as: 'When a lead pings in your DMS in 5 minutes after posting *ey ey ey* Ventrix moment.' (Lower priority.)"
+    },
+    {
+      "format_name": "Problem \u2192 Micro-Proof \u2192 Payoff Story Structure",
+      "platform": "TikTok / Reels / All",
+      "estimated_uses_or_views": "5M+ (foundational viral format)",
+      "structure": "State pain point (30 sec) \u2192 show quick proof (15 sec) \u2192 reveal solution with CTA (15 sec)",
+      "audio_or_template_link": "Any trending motivational/corporate audio (MrClaps 'Cinematic Corporate' etc.)",
+      "b2b_fit_score": 5,
+      "ventrix_caption_example": "'Dealers: You're losing 2+ hours per car to manual Marketplace posts. Proof: Check your spreadsheet. Solution: 15 seconds with Ventrix. Auto-fills, auto-syncs DMS alerts, auto-pulls from your inventory DB.'"
+    },
+    {
+      "format_name": "SPEND DAT SAX (Product Reveal Audio)",
       "platform": "Instagram Reels / TikTok",
-      "estimated_uses_or_views": "12M+",
-      "structure": "Smooth, jazzy audio paired with before-and-after transformation, polished product reveals, or elegant workflow sequences",
-      "audio_or_template_link": "Instagram Reels Audio - Olivia Dean 'So Easy (To Fall In Love)'",
-      "b2b_fit_score": "3",
-      "ventrix_caption_example": "When you fall in love with selling faster: [BTS dealer workflow] \u2192 [30 new leads posted] The elegance isn't in the hustle. It's in the automation. #SalesOps #FacadeLifestyle"
+      "estimated_uses_or_views": "2.1M+ (trending as of June 2026)",
+      "structure": "Use smooth saxophone-driven audio for product reveals, before-and-afters, or brand showcases",
+      "audio_or_template_link": "SPEND DAT SAX by Corey Staggers",
+      "b2b_fit_score": 3,
+      "ventrix_caption_example": "'Dealers showing off their freshly posted inventory. *SPEND DAT SAX plays* 15 seconds to list 1 car = time to list 4 more today.'"
     },
     {
-      "format_name": "'Ey Ey Ey' Loop (Bad Bunny Super Bowl Repeater)",
-      "platform": "TikTok",
-      "estimated_uses_or_views": "5.2M+",
-      "structure": "Drop B-roll or clips under repeating 'ey' chant for hype energy; loop can work for countdowns, reveals, or chaotic/fun moments",
-      "audio_or_template_link": "TikTok - Bad Bunny 'ey ey ey' loop meme sound (from Super Bowl LX 2026)",
-      "b2b_fit_score": "3",
-      "ventrix_caption_example": "When your dealership hits 50 auto-posted listings in one week: EY EY EY \ud83d\udd25 Leads pinging. DMS auto-cleaned. Sellers staying fresh. That's the sound of selling smarter. #AutoSales #DealerWin"
-    },
-    {
-      "format_name": "Speed Ramp Fast Transition (Slow-Mo \u2192 Speed-Up Snap)",
-      "platform": "CapCut / TikTok / Reels",
-      "estimated_uses_or_views": "18M+",
-      "structure": "Start smooth/slow motion \u2192 sudden speed-up cut to next scene or reveal with dramatic energy shift",
-      "audio_or_template_link": "CapCut trending effects library - Speed Ramp templates",
-      "b2b_fit_score": "4",
-      "ventrix_caption_example": "Normal car listing process... [slowed] | vs. Ventrix [SPEED CUTS] 10-15 seconds baby. Because your time is the real inventory. #SalesTech #TimeIsLeads"
-    },
-    {
-      "format_name": "'Hot Girl Dinner' Magic Reveal (Sax/Product Conjure)",
-      "platform": "Instagram Reels",
-      "estimated_uses_or_views": "6.8M+",
-      "structure": "Show process/setup \u2192 snap/gesture \u2192 item magically appears (or appears in guest's hands); works great for product reveals or BTS finishing moments",
-      "audio_or_template_link": "Instagram Reels Audio - Megan Thee Stallion 'Hot Girl Dinner' original",
-      "b2b_fit_score": "3",
-      "ventrix_caption_example": "Salespeople: 'I have no leads for tomorrow' | [gesture] Ventrix: [5 fresh DMS notifications appear] \u2728 Magic? Nah. Automation. #SalesFlex #LeadGen"
-    },
-    {
-      "format_name": "Top 10 / Top 5 Ranking (Carousel-Style List)",
-      "platform": "CapCut / TikTok / Reels",
-      "estimated_uses_or_views": "21M+",
-      "structure": "Rank 5-10 items/tools/tactics using text transitions and trending audio; works for products, books, campaigns, tools, or best practices",
-      "audio_or_template_link": "CapCut trending template + trending audio of choice",
-      "b2b_fit_score": "4",
-      "ventrix_caption_example": "Top 5 things that killed manual Facebook Marketplace posting: 5. Wrist cramps 4. Lead follow-up delays 3. Forgetting DMS cleanup 2. Lost hours per week 1. Ventrix didn't exist yet \ud83d\udd25 #SalesHacks #Efficiency"
-    },
-    {
-      "format_name": "Team Clap Transition (Coworker Coordination)",
-      "platform": "CapCut / Reels / TikTok",
-      "estimated_uses_or_views": "9.3M+",
-      "structure": "Each team member claps to beat in sequence \u2192 transition to next person seamlessly; fun, easy to film, highlights collaboration",
-      "audio_or_template_link": "CapCut trending templates - team clap transition",
-      "b2b_fit_score": "4",
-      "ventrix_caption_example": "[Sales rep 1 claps] Listing posted! [Sales rep 2 claps] Lead in inbox! [Whole team claps] VENTRIX DID IT IN 15 SECONDS \ud83d\udc4f Teamwork makes the dream work. Automation makes the paycheck bigger. #DealerTeam #SalesAuto"
-    },
-    {
-      "format_name": "'Riptide' by Vance Joy (Quirky, Approved Upbeat Instrumental)",
-      "platform": "TikTok / Reels",
-      "estimated_uses_or_views": "4.1M+",
-      "structure": "Upbeat, fun indie-pop track used for light carousel visuals, day-in-the-life montages, or 'caught slipping' B2B moments",
-      "audio_or_template_link": "TikTok/Instagram audio library - 'Riptide' Vance Joy (approved for business)",
-      "b2b_fit_score": "3",
-      "ventrix_caption_example": "A day in the life: Dealership edition [CapCut montage with Riptide] Morning: List 20 cars in 5 minutes. Afternoon: 30 new leads. Evening: Close early \ud83c\udfb5 #SalesLife #AutoBiz #SmallWins"
-    },
-    {
-      "format_name": "'Game Time' by Future & Tyla (FIFA 2026 World Cup Hype)",
+      "format_name": "Game Time / World Cup Hype Energy Audio",
       "platform": "Instagram Reels / TikTok",
-      "estimated_uses_or_views": "7.9M+",
-      "structure": "High-energy sports/gym/competitive audio; works for 'game time' sales moments, launch announcements, or competitive energy vibes",
-      "audio_or_template_link": "Instagram Reels / TikTok audio - 'Game Time' Future ft. Tyla (FIFA 2026 soundtrack)",
-      "b2b_fit_score": "4",
-      "ventrix_caption_example": "When it's Tuesday and you've got a full month of inventory to move: [GAME TIME] \ud83c\udfc6 50 listings. 15 seconds each. Zero manual busywork. Ventrix is your MVP. Let's go. #SalesGameOn #AutoSales"
+      "estimated_uses_or_views": "4.7M+ (FIFA World Cup 2026 soundtrack relevance)",
+      "structure": "High-energy, sports/competition-driven audio (Future & Tyla) paired with hustler/achievement clips",
+      "audio_or_template_link": "Game Time by Future & Tyla (FIFA World Cup 2026 soundtrack)",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "'Dealership showdown: Who can list 30 cars fastest? Game time. Ventrix users: 30 cars in 7 minutes. Manual posters: Game over. Who's winning?'"
     },
     {
-      "format_name": "No Further Questions / Guardian Angel Evolved (Shutting Down the Narrative)",
-      "platform": "TikTok / Reels",
-      "estimated_uses_or_views": "6.4M+",
-      "structure": "Use meme reaction format to shut down questions about how you're managing (implying something chaotic but working); reply: 'No further questions'",
-      "audio_or_template_link": "KnowYourMeme trending meme format - Guardian Angel evolution",
-      "b2b_fit_score": "4",
-      "ventrix_caption_example": "Customer: 'How are you managing 5 dealerships AND posting inventory daily?' Me: [guardian angel watching me use Ventrix] 'No further questions' Some ops just work. No explanation needed. #FounderMode #SalesOps"
+      "format_name": "Cinematic Corporate Motivational Audio Track",
+      "platform": "All / B2B-native",
+      "estimated_uses_or_views": "1.5M+ weekly (business-specific)",
+      "structure": "Cinematic instrumental with modern rhythm \u2192 goal-setting, teamwork, business success clips set to audio",
+      "audio_or_template_link": "Cinematic Corporate by MrClaps (free download via link in bio)",
+      "b2b_fit_score": 5,
+      "ventrix_caption_example": "'This is what 10-15 seconds of automation looks like. Lead pings arrive in 5 minutes. Dealerships close faster. Ventrix: Built for teams that move.'"
+    },
+    {
+      "format_name": "Text-to-AI-Song Trend (Messages as Lyrics)",
+      "platform": "TikTok / All",
+      "estimated_uses_or_views": "6.8M+ since April 2026",
+      "structure": "Take real customer/team texts or DMS messages \u2192 feed into Suno AI \u2192 turn into song (any genre: gospel, screamo, reggae, etc.)",
+      "audio_or_template_link": "Suno Music AI tool",
+      "b2b_fit_score": 2,
+      "ventrix_caption_example": "Lower fit, but possible: 'We turned our customer DMS replies into a song. (They all arrived within 5 minutes thanks to Ventrix auto-alerts.) Listen to your leads respond faster.'"
+    },
+    {
+      "format_name": "Daisies / Chill Lifestyle Audio (Justin Bieber)",
+      "platform": "Instagram Reels / TikTok",
+      "estimated_uses_or_views": "3.9M+ (trending June 2026)",
+      "structure": "Pleasant, dreamy, relaxed vibe \u2192 pair with workflow shots, behind-the-scenes, office life, smooth transitions",
+      "audio_or_template_link": "Daisies by Justin Bieber",
+      "b2b_fit_score": 2,
+      "ventrix_caption_example": "'A day in the life: Morning briefing. 15 sec per car. 8 cars listed. Coffee break. Lunch. Done by 2 PM. Ventrix life.'"
+    },
+    {
+      "format_name": "Ring Ring Ring / Retro-Funk Smooth Audio (Tyler, The Creator)",
+      "platform": "Instagram Reels / TikTok",
+      "estimated_uses_or_views": "2.8M+ (trending June 2026)",
+      "structure": "Laid-back funk groove \u2192 outfit checks, quick transitions, before-and-afters, creative edits, making mundane moments feel stylish",
+      "audio_or_template_link": "Ring Ring Ring by Tyler, The Creator",
+      "b2b_fit_score": 3,
+      "ventrix_caption_example": "'That moment when your inventory just got 4x more stylish to buyers. Ring ring\u2014lead coming in. *smooth transition* Sold.'"
     }
   ],
   "competitor_signals": [
     {
       "competitor": "Shiftly Auto",
-      "signal": "Negative reviews on Whop: 2 reviews, both 1-star (0.0/5.0 average as of May 16, 2026)",
+      "signal": "Poor Whop reviews (1.0 avg rating) and customer complaints about 1-star reviews on two transactions - both lowest possible rating",
       "source_url": "https://scribehow.com/page/Is_Shiftly_Auto_Listing_Tool_on_Whop_Legit_What_the_Reviews_Are_Actually_Telling_You__HiKH4ZIxSvSzxjZdzLxikg",
       "date_approx": "2026-05-16",
-      "what_it_means": "Shiftly's newer Whop product launch is facing severe quality/onboarding issues that are damaging credibility despite legacy Trustpilot reviews being more positive.",
-      "ventrix_counter_angle": "Stop betting on unproven tools. Ventrix: Chrome extension that just works. No setup friction. Real dealers, real results. Join 100+ teams shipping cars today."
+      "what_it_means": "Shiftly struggling with product quality and customer satisfaction - early adopter friction signals broader reliability or onboarding issues.",
+      "ventrix_counter_angle": "Ventrix delivers out-of-the-box simplicity with zero setup friction. No sales demo required. Auto-fill is instant, not manual."
     },
     {
       "competitor": "CARVID",
-      "signal": "Major feature release: Guided Car Video Creator Tool added to iOS app (Jan 2026); Advanced team analytics dashboard + one-click social sharing to all platforms",
-      "source_url": "https://apps.apple.com/us/app/carvid-dealer-social-media/id6743631280",
-      "date_approx": "last week",
-      "what_it_means": "CARVID is doubling down on video-first automation and team collaboration, positioning itself as the all-in-one social + Marketplace solution (now at 73+ dealerships).",
-      "ventrix_counter_angle": "Tired of overpaying for bloated video tools? Ventrix speeds up Facebook Marketplace listings in seconds, no video required. More posts, less hassle. $X/mo."
+      "signal": "Published 90-day testing study comparing 12 dealerships claiming video posts get 3.2x more inquiries than photo-only; 73+ dealerships using CARVID as primary tool",
+      "source_url": "https://www.carvidapp.com/best-facebook-marketplace-tools/",
+      "date_approx": "2026-01-05",
+      "what_it_means": "CARVID is aggressively positioning video-first automation as table stakes - dealers now expect AI video generation included, not optional.",
+      "ventrix_counter_angle": "Ventrix focuses on speed and accuracy of listing fill-outs\u2014the foundation every tool needs. Perfect complement to video tools; dealers who skip videos still need fast, accurate listings."
     },
     {
       "competitor": "CARVID",
-      "signal": "Case study published: PA Auto Sales moved from 0 to 150+ listings in 48 hours; reported 3-5x more inquiries than manual posting (verified May 2026)",
-      "source_url": "https://www.carvidapp.com/",
-      "date_approx": "2026-05-28",
-      "what_it_means": "CARVID is aggressively marketing automation results and speed-to-posting as competitive moats against manual and semi-manual tools.",
-      "ventrix_counter_angle": "Ventrix: 150 listings. 10 minutes. No videos, no complexity. Dealers choosing speed over features are choosing us. Chrome extension, Facebook native, ship it today."
+      "signal": "Launched built-in AI auto-responder for Facebook Messenger (24/7 lead qualification), multi-platform posting to 9 platforms, and AI walkaround video tool",
+      "source_url": "https://www.carvidapp.com/carvid-vs-shiftly/",
+      "date_approx": "2026-05-17",
+      "what_it_means": "CARVID is expanding beyond posting into lead capture and CRM workflows - raising the bar for what dealers expect from their listing tools.",
+      "ventrix_counter_angle": "Ventrix laser-focuses on the one job dealers hate most: manual listing entry. While CARVID spreads thin across video, posting, and chat, Ventrix auto-fills listings in seconds and integrates with any CRM."
     },
     {
-      "competitor": "Shiftly Auto",
-      "signal": "Pricing model: Enterprise custom pricing (~$1,000/mo reported); no transparent pricing; requires sales demo to begin",
-      "source_url": "https://postdrop.ai/alternatives/shiftly-auto",
-      "date_approx": "2026-04-01",
-      "what_it_means": "Shiftly is locked into high-touch enterprise pricing while adjacent tools like PostDrop ($12\u2013$99/mo) and CARVID ($249/mo) are eating up mid-market and SMB segments.",
-      "ventrix_counter_angle": "Ventrix breaks the enterprise trap: Transparent pricing, no sales call required, 10-minute onboarding. Auto-fill your whole lot without the enterprise overhead."
-    },
-    {
-      "competitor": "CARVID",
-      "signal": "Facebook Marketplace compliance feature: Updated May 2026\u2014instantly detects and prevents 30-day bans; posts at safe intervals (10-30 min apart); max 10/day limits automated",
+      "competitor": "Facebook Marketplace (Meta Policy)",
+      "signal": "Increased enforcement strictness as of May 2026: first spam violation = instant 30-day ban (up from 7 days); second violation = permanent ban",
       "source_url": "https://www.carvidapp.com/facebook-marketplace-dealer-posting-rules/",
       "date_approx": "2026-05-01",
-      "what_it_means": "CARVID is positioning compliance automation as a core competitive moat as Facebook tightens enforcement (30-day bans for first violation as of May 2026).",
-      "ventrix_counter_angle": "Ventrix compliance: Auto-fill your listings safely. Native Facebook Marketplace integration means compliance baked in. No mysterious bans. Just sales."
+      "what_it_means": "Compliance risk is now existential for dealers - even small posting mistakes result in month-long account suspension, making automation tools that avoid bans table stakes.",
+      "ventrix_counter_angle": "Ventrix ensures every listing is human-entered via Chrome extension\u2014zero bot risk. Dealers stay in control of what posts, when, and how\u2014no account suspension fears."
     },
     {
       "competitor": "Marketplace Pro",
-      "signal": "New competitor launch: UK-founded Marketplace Pro officially launched AI-powered Facebook Marketplace software; supports import from AutoTrader, Cars.com, CarGurus.ca (Feb 3, 2026)",
+      "signal": "New UK-founded SaaS platform launched AI-powered Facebook Marketplace software with inventory import from AutoTrader, Cars.com, CarGurus, Gumtree",
       "source_url": "https://markets.financialcontent.com/stocks/article/abnewswire-2026-2-3-marketplace-pro-launches-ai-powered-facebook-marketplace-software-for-car-dealers",
       "date_approx": "2026-02-03",
-      "what_it_means": "Fresh competitor entering the space positioning AI + inventory import as key value; signals market is still expanding and attracting new players.",
-      "ventrix_counter_angle": "New players = market validation. But Ventrix did it first and simpler: Chrome extension, pre-fill forms, ship fast. We're not reinventing\u2014we're solving the real bottleneck."
+      "what_it_means": "New entrant bringing international playbook to US market with multi-source inventory syncing - suggesting dealer integration is becoming differentiator.",
+      "ventrix_counter_angle": "Ventrix works seamlessly with dealers' existing workflow\u2014no DMS lock-in required. Works on any listing, any platform, any dealer stack."
+    },
+    {
+      "competitor": "Industry Positioning",
+      "signal": "CARVID positioned as beating Shiftly on price ($249 vs ~$1000), platforms (9 vs 1), video (included vs photos-only), automation (true vs manual)",
+      "source_url": "https://www.carvidapp.com/carvid-vs-shiftly/",
+      "date_approx": "2026-05-17",
+      "what_it_means": "The market narrative is now 'automation vs. manual labor' and 'multi-platform vs. single-platform'\u2014both positioning Shiftly as legacy/expensive.",
+      "ventrix_counter_angle": "Ventrix owns the underserved middle: dealers who need speed and accuracy on the ONE platform that matters (Facebook Marketplace + their own site). No bloat, maximum ROI per dollar."
     },
     {
       "competitor": "Shiftly Auto",
-      "signal": "Chrome extension version updated March 25, 2026; no public changelog or feature announcements visible on Trustpilot or competitor sites",
+      "signal": "Maintains Chrome extension presence (last updated March 25, 2026) with limited social media activity; no recent product announcements or feature launches detected",
       "source_url": "https://chromewebstore.google.com/detail/shiftly-auto-lister/ekojgodjldjgppkjnjacbeedofegfioh?hl=en-US",
       "date_approx": "2026-03-25",
-      "what_it_means": "Shiftly is silently updating but not communicating improvements; missing opportunity to counter CARVID's multi-platform narrative and compliance updates.",
-      "ventrix_counter_angle": "Ventrix ships with transparency. Every feature update goes straight to your feed. Watch us build, watch us improve, watch your Marketplace posts ship faster."
+      "what_it_means": "Shiftly appears stalled\u2014no visible momentum in product development, marketing, or social presence over past 3 months.",
+      "ventrix_counter_angle": "Ventrix is shipping faster, iterating based on dealer feedback, and building features dealers actually want\u2014not resting on a 2024 launch."
     },
     {
-      "competitor": "CARVID + PostDrop",
-      "signal": "Comparative marketing: PostDrop ($12\u2013$99/mo), CARVID ($249/mo), and alternatives all explicitly positioning against Shiftly (~$1,000/mo) in landing pages and comparison guides (May 2026)",
-      "source_url": "https://postdrop.ai/alternatives/shiftly-auto",
-      "date_approx": "2026-05-01",
-      "what_it_means": "Price positioning has become the dominant messaging axis; all emerging competitors are framing themselves as 'Shiftly alternative' and price-to-value ratio is driving decisions.",
-      "ventrix_counter_angle": "Ventrix: The simple choice. Not the cheapest, not the feature-richest\u2014just the fastest way to auto-fill and ship Facebook Marketplace listings. Pricing TBD but transparent."
+      "competitor": "CARVID",
+      "signal": "Published TikTok account (@shiftlyauto) with dealer education content; CARVID showing strong community engagement and case study marketing (PA Auto Sales case study)",
+      "source_url": "https://www.tiktok.com/@shiftlyauto/video/7439802745625873710",
+      "date_approx": "last week",
+      "what_it_means": "Competitors are building brand authority and dealer trust through social proof and educational content\u2014not just feature announcements.",
+      "ventrix_counter_angle": "Ventrix should be sharing dealer wins and quick-start guides on LinkedIn and dealer forums\u2014positioning Chrome extension + auto-fill as the easiest path to 50+ listings/day."
     }
   ]
 }
