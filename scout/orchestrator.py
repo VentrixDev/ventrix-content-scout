@@ -48,6 +48,23 @@ def next_monday(today: datetime.date | None = None) -> datetime.date:
     return today + datetime.timedelta(days=offset)
 
 
+def brief_start_date() -> datetime.date:
+    """Decide what date the brief covers.
+
+    Default: next Monday (normal Sunday cron behavior).
+    Override: set BRIEF_START_DATE=YYYY-MM-DD to anchor to a specific date.
+    """
+    override = os.environ.get("BRIEF_START_DATE")
+    if override:
+        return datetime.date.fromisoformat(override)
+    return next_monday()
+
+
+def brief_days() -> int:
+    """How many days the brief covers. Default 7 (a week). Override BRIEF_DAYS=N."""
+    return int(os.environ.get("BRIEF_DAYS", "7"))
+
+
 def run_research_agents() -> dict:
     """Run research agents sequentially with delays to respect Anthropic rate limits.
 
@@ -114,8 +131,10 @@ def write_intel(week_label: str, intel: dict) -> Path:
 
 
 def main() -> None:
-    week_label = next_monday().strftime("%Y-%m-%d")
-    print(f"🚀 Ventrix multi-agent scout — brief for week of {week_label}\n")
+    start = brief_start_date()
+    days = brief_days()
+    week_label = start.strftime("%Y-%m-%d")
+    print(f"🚀 Ventrix multi-agent scout — brief starting {week_label} for {days} day(s)\n")
 
     print("📡 Running research agents in parallel…")
     intel = run_research_agents()
@@ -131,7 +150,11 @@ def main() -> None:
         print(f"  ⚠️ prospect hunter failed: {e}")
         traceback.print_exc()
 
-    print("\n🧠 Synthesizing weekly brief…")
+    print("\n🧠 Synthesizing brief…")
+    day_labels = [
+        (start + datetime.timedelta(days=i)).strftime("%A %b %d")
+        for i in range(days)
+    ]
     try:
         brief = synthesizer.run(
             week_label=week_label,
@@ -139,12 +162,14 @@ def main() -> None:
             reddit_signals=intel.get("reddit_signals", []),
             meme_signals=intel.get("meme_signals", []),
             competitor_signals=intel.get("competitor_signals", []),
+            days=days,
+            day_labels=day_labels,
         )
     except Exception as e:
         print(f"  ⚠️ synthesizer failed: {e}")
         traceback.print_exc()
         brief = (
-            f"# Ventrix Content Brief — Week of {week_label}\n\n"
+            f"# Ventrix Content Brief — Starting {week_label}\n\n"
             "*Synthesizer failed this run. See `briefs/intel/` for raw agent outputs.*\n"
         )
 

@@ -1,0 +1,180 @@
+{
+  "x_signals": [],
+  "reddit_signals": [],
+  "meme_signals": [
+    {
+      "format_name": "Hand Wipe Reveal",
+      "platform": "TikTok / Reels",
+      "estimated_uses_or_views": "2.1M+",
+      "structure": "Film empty space \u2192 wipe camera with hand \u2192 reveal product/service transformation",
+      "audio_or_template_link": "https://www.capcut.com/explore/trending-templates-2026",
+      "b2b_fit_score": 5,
+      "ventrix_caption_example": "POV: Your team just discovered Ventrix. Empty desk \u2192 hand wipe \u2192 15 cars posted to Marketplace in one lunch break. That's the speed dealers actually want. \ud83d\ude97\u26a1"
+    },
+    {
+      "format_name": "Top 10 Ranking",
+      "platform": "All",
+      "estimated_uses_or_views": "1.8M+",
+      "structure": "Showcase top 10 favorites with on-screen text/graphics, one per beat",
+      "audio_or_template_link": "https://www.capcut.com/explore/trending-templates-2026",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "Top 10 ways our dealer partners save time per week: #1 Auto-fill Marketplace (saves 45 min) \u2192 #10 Fewer DMS copy-pastes. Tag your favorite."
+    },
+    {
+      "format_name": "Team Clap Transition",
+      "platform": "TikTok / Reels",
+      "estimated_uses_or_views": "1.4M+",
+      "structure": "Each team member claps to beat, transitions to next person clapping",
+      "audio_or_template_link": "https://www.capcut.com/explore/trending-templates-2026",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "When Ventrix drops and your whole sales team sees their DMS ping notifications in sync. \ud83d\udc4f Rapid-fire lead pings every 5/30/60 min. Built for hustlers."
+    },
+    {
+      "format_name": "Bad Bunny 'Ey Loop' Green Screen",
+      "platform": "TikTok",
+      "estimated_uses_or_views": "3.2M+",
+      "structure": "Repeat 'ey ey ey' audio \u2192 overlay reaction clips or product moment underneath",
+      "audio_or_template_link": "https://www.tiktok.com/discover/tiktok-meme-templates",
+      "b2b_fit_score": 3,
+      "ventrix_caption_example": "Ventrix founders watching their bot auto-fill 10 cars while they sleep. EY EY EY. \ud83d\udd04 That's passive lead generation energy."
+    },
+    {
+      "format_name": "Cinematic Corporate Motivation",
+      "platform": "Reels / TikTok",
+      "estimated_uses_or_views": "980K+",
+      "structure": "Upbeat instrumental \u2192 B-roll of team winning/working \u2192 overlaid inspirational text or voice-over",
+      "audio_or_template_link": "https://www.tiktok.com/discover/motivation-%E2%80%A6-original-sound",
+      "b2b_fit_score": 5,
+      "ventrix_caption_example": "Your January sales goal. Posting 400 cars manually. Ventrix installed. 10-15 seconds per car. Lead pings start firing. That's founder energy. \ud83d\udcc8"
+    },
+    {
+      "format_name": "'Hot Girl Dinner' Magic Conjuring",
+      "platform": "Instagram Reels",
+      "estimated_uses_or_views": "2.7M+",
+      "structure": "Show empty setup \u2192 magical appearance of items/results via editing trick or reveal",
+      "audio_or_template_link": "https://www.instagram.com/megan-thee-stallion (original audio)",
+      "b2b_fit_score": 3,
+      "ventrix_caption_example": "When you integrate Ventrix and Marketplace listings suddenly appear. No manual copy-paste. They just... materialize. \ud83e\ude84 Lead generation magic."
+    },
+    {
+      "format_name": "Game Time (FIFA World Cup 2026 Hype)",
+      "platform": "All",
+      "estimated_uses_or_views": "4.1M+",
+      "structure": "High-energy sports/competitive moment \u2192 overlay wins, achievements, or momentum shots",
+      "audio_or_template_link": "https://open.spotify.com/track/game-time-future-tyla",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "Q2 sales sprint soundtrack. Ventrix auto-fills 50 cars by Wednesday. Your team's crushing quota. This audio is the energy. \u26bd\ud83d\udd25"
+    },
+    {
+      "format_name": "Before/After Transformation (SPEND DAT SAX)",
+      "platform": "Reels",
+      "estimated_uses_or_views": "1.6M+",
+      "structure": "Before state \u2192 saxophone-driven reveal \u2192 polished after state (product/outcome)",
+      "audio_or_template_link": "https://www.instagram.com/corey-staggers-spend-dat-sax",
+      "b2b_fit_score": 5,
+      "ventrix_caption_example": "Before: Manual Marketplace copy-paste for each car. After: Ventrix auto-description in dealer voice, AI-generated, posted in 12 seconds. Smooth sax energy. \ud83c\udfb7"
+    },
+    {
+      "format_name": "POV: Sales Rep End-of-Quarter Grind",
+      "platform": "TikTok",
+      "estimated_uses_or_views": "890K+",
+      "structure": "Relatable pain point \u2192 reaction/punchline showing hustle or relief",
+      "audio_or_template_link": "https://www.tiktok.com/@withstephen/",
+      "b2b_fit_score": 5,
+      "ventrix_caption_example": "POV: You're a dealer and 2 days left to post 80 cars before month-end. Ventrix saves you. 5 hours saved. Leads still rolling in via auto-pings. \ud83d\udcf1\u23f0"
+    },
+    {
+      "format_name": "Stuck Frame Animation (Charli XCX 'Rock Music')",
+      "platform": "Instagram Reels",
+      "estimated_uses_or_views": "1.2M+",
+      "structure": "Glitch moment timed to audio beat \u2192 freeze frame transition effect \u2192 reveal or transformation",
+      "audio_or_template_link": "https://www.instagram.com/charli_xcx/",
+      "b2b_fit_score": 3,
+      "ventrix_caption_example": "That glitch moment when your CRM syncs perfectly with Marketplace and every lead auto-assigns to the right salesperson. Rock music energy. \ud83c\udfb8"
+    },
+    {
+      "format_name": "Creator-to-Creator Duet Reaction",
+      "platform": "TikTok",
+      "estimated_uses_or_views": "2.3M+",
+      "structure": "Original video + side-by-side reaction/duet response with emotion or counterpoint",
+      "audio_or_template_link": "https://www.tiktok.com/discover/small-business-tiktok-trending-sounds",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "POV: Dealer posts 'I spent 6 hours on Marketplace listings' \u2192 Ventrix user duet: 'Meanwhile I automated it and grabbed coffee.' Real talk. \u2615"
+    },
+    {
+      "format_name": "Founder Grind / Building in Public",
+      "platform": "All",
+      "estimated_uses_or_views": "1.5M+",
+      "structure": "Behind-the-scenes hustle shot + motivational text overlay + growth metric reveal",
+      "audio_or_template_link": "https://www.tiktok.com/discover/small-business-tiktok-trending-sounds",
+      "b2b_fit_score": 5,
+      "ventrix_caption_example": "Ventrix founder mode: Built a bot that saves dealers 45 hours/month. Day 47 post-launch. 12 dealership leads already. Shipping features daily. Building in public. \ud83d\ude80"
+    }
+  ],
+  "competitor_signals": [
+    {
+      "competitor": "CARVID",
+      "signal": "Posted May 17, 2026 comparison page: CARVID vs Glo3D, positioning CARVID's 9-platform reach as advantage; also emphasized 38+ dealership user base and 'zero Facebook bans' compliance claim.",
+      "source_url": "https://www.carvidapp.com/carvid-vs-glo3d/",
+      "date_approx": "2026-05-17",
+      "what_it_means": "CARVID is aggressively marketing compliance and multi-platform reach as core differentiators; competing on safety (ban protection) and breadth, not speed.",
+      "ventrix_counter_angle": "Ventrix: The Chrome extension that actually FITS your workflow. No integration complexity. Post cars faster than tools that promise 9 platforms. Focus on ONE platform mastery > surface-level distribution."
+    },
+    {
+      "competitor": "CARVID",
+      "signal": "Updated May 28, 2026 homepage: Launched multi-tier pricing (Standard $249/mo, Pro $499/mo, Enterprise $799/mo); emphasizes 'AI video auto-generation' as core feature.",
+      "source_url": "https://www.carvidapp.com/",
+      "date_approx": "2026-05-28",
+      "what_it_means": "CARVID is scaling pricing tiers and doubling down on video as premium feature; positioning as full-suite platform rather than focused tool.",
+      "ventrix_counter_angle": "Ventrix: Simple, transparent pricing. No tier confusion. Chrome extension. 60-second Facebook listings without the overhead. Dealers are tired of platform bloat."
+    },
+    {
+      "competitor": "Shiftly Auto",
+      "signal": "Listed on Whop at $129/month (as of May 2026); however, multiple sources confirm actual dealer pricing is ~$1,000/month custom/negotiated. Positioning discrepancy is creating market confusion.",
+      "source_url": "https://scribehow.com/page/Is_Shiftly_Auto_Listing_Tool_on_Whop_Legit_What_the_Reviews_Are_Actually_Telling_You__HiKH4ZIxSvSzxjZdzLxikg",
+      "date_approx": "2026-05-16",
+      "what_it_means": "Shiftly's pricing opacity and wide gap between advertised ($129) and actual cost ($1000+) is creating trust issues and buyer confusion; possible sign of underperformance at lower price point.",
+      "ventrix_counter_angle": "Ventrix: Transparent pricing, no hidden enterprise fees. Chrome extension simplicity at a fair cost. No 'call for pricing' games."
+    },
+    {
+      "competitor": "Shiftly Auto",
+      "signal": "Whop reviews (May 2026): 2 one-star reviews only; Trustpilot shows mixed sentiment\u2014positive reviews from users claiming 'high-quality leads' but also unresolved complaints about Brandon Sandoval sales team responsiveness and product limitations after 12 hours.",
+      "source_url": "https://scribehow.com/page/Is_Shiftly_Auto_Listing_Tool_on_Whop_Legit_What_the_Reviews_Are_Actually_Telling_You__HiKH4ZIxSvSzxjZdzLxikg",
+      "date_approx": "2026-05-16",
+      "what_it_means": "Shiftly has quality/product limitation issues (12-hour usage cap) and weak customer service follow-up; reviews are polarized and thin, suggesting unresolved product-market fit.",
+      "ventrix_counter_angle": "Ventrix: Built by dealers, for dealers. 24/7 Chrome extension. No usage hour limits. Support that responds in minutes, not days."
+    },
+    {
+      "competitor": "Marketplace Pro",
+      "signal": "Launched February 3, 2026 (press release); UK-founded SaaS, AI-powered vehicle listing software; imports inventory from AutoTrader, Cars.com, CarGurus, Gumtree. Positioned as 'cost-effective alternative to traditional advertising.'",
+      "source_url": "https://markets.financialcontent.com/stocks/article/abnewswire-2026-2-3-marketplace-pro-launches-ai-powered-facebook-marketplace-software-for-car-dealers",
+      "date_approx": "2026-02-03",
+      "what_it_means": "New UK entrant is expanding to US market; focusing on inventory import/syndication and AI optimization to reduce paid ad spend; targeting dealers tired of marketing costs.",
+      "ventrix_counter_angle": "Ventrix: No monthly AI licensing fees disguised in SaaS pricing. Direct integration with your DMS. Faster, simpler, no data migration headaches."
+    },
+    {
+      "competitor": "CARVID",
+      "signal": "May 22, 2026 App Store developer response: 'We are adding more and more cool features every day'; recent updates include TikTok-style video editor, team performance analytics, one-click social sharing, blog posting + newsletter distribution.",
+      "source_url": "https://apps.apple.com/us/app/carvid-dealer-social-media/id6743631280",
+      "date_approx": "2026-05-22",
+      "what_it_means": "CARVID is expanding feature scope into content creation and distribution; moving beyond Marketplace posting into full dealership content hub.",
+      "ventrix_counter_angle": "Ventrix: Do one thing incredibly well\u2014Facebook Marketplace listings in 60 seconds. Feature bloat = slower experience. Dealers need speed, not bells."
+    },
+    {
+      "competitor": "Glo3D + CARVID ecosystem",
+      "signal": "May 17, 2026: CARVID published positioning strategy recommending dealers 'use both tools together'\u2014Glo3D for 360\u00b0 spins, CARVID for AI backgrounds and distribution. Suggests feature compartmentalization strategy.",
+      "source_url": "https://www.carvidapp.com/carvid-vs-glo3d/",
+      "date_approx": "2026-05-17",
+      "what_it_means": "CARVID acknowledges photography quality gap; positioning as distribution/video specialist, not photography. Creates ecosystem play that fragments dealer tooling.",
+      "ventrix_counter_angle": "Ventrix: All-in-one solution. Photo quality + Marketplace listings + speed in one Chrome extension. Stop buying point solutions; consolidate."
+    },
+    {
+      "competitor": "Adjacent: DealerSocket, HomeNet, vAuto",
+      "signal": "CARVID's DMS integration messaging (May 2026): Actively promoting syncs with HomeNet, DealerCenter, vAuto, Frazer; auto-sync every 15 minutes. Positioning integration depth as moat.",
+      "source_url": "https://www.carvidapp.com/carvid-vs-glo3d/",
+      "date_approx": "2026-05-17",
+      "what_it_means": "CARVID is building DMS-dependent lock-in; dealers who already run these systems have lower switching cost into CARVID; Ventrix needs DMS story to compete.",
+      "ventrix_counter_angle": "Ventrix: Works with ANY DMS or manual inventory. Chrome extension independence. No integration bottleneck. Faster to market than DMS-dependent solutions."
+    }
+  ]
+}
