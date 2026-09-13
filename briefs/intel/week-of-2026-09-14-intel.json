@@ -1,0 +1,182 @@
+{
+  "x_signals": [
+    {
+      "url": "Unable to retrieve - no direct X/Twitter API access",
+      "creator": "N/A",
+      "hook": "N/A",
+      "engagement_estimate": "N/A",
+      "format": "N/A",
+      "why_it_worked": "N/A",
+      "ventrix_translation": "N/A"
+    }
+  ],
+  "reddit_signals": [],
+  "meme_signals": [
+    {
+      "format_name": "Daily/Weekly/Monthly Routine Flex (Split-Screen)",
+      "platform": "TikTok / Reels / All",
+      "estimated_uses_or_views": "1.2M+ TikTok posts",
+      "structure": "Three-panel breakdown of what you do daily vs. weekly vs. monthly, cycling through habits to flex discipline or workflow.",
+      "audio_or_template_link": "https://www.capcut.com/explore/new-trending-CapCut-template/",
+      "b2b_fit_score": "5",
+      "ventrix_caption_example": "DAILY: List Marketplace \u23f1\ufe0f | WEEKLY: Check Lead Ping Dashboard \ud83d\udcca | MONTHLY: Close $50K+ in sales \ud83d\udcb0 (While your competitors still manually post cars)"
+    },
+    {
+      "format_name": "Scuba Scuba Dance Reaction (Green Screen Over Achievement)",
+      "platform": "TikTok / Reels",
+      "estimated_uses_or_views": "800K+ TikTok uses",
+      "structure": "Animated kittens/characters doing rhythmic bouncy dance; you green-screen over it your 'achievement moment' or product launch celebration.",
+      "audio_or_template_link": "https://www.tiktok.com/discover/best-meme-templates-2026/",
+      "b2b_fit_score": "4",
+      "ventrix_caption_example": "Me when I went from 15-minute Facebook posts to 10-second auto-fills with 5-minute lead ping alerts \ud83d\udc31\u2728"
+    },
+    {
+      "format_name": "Opposites Attract Bait-and-Switch (What Did My Husband Pray For?)",
+      "platform": "Reels / TikTok",
+      "estimated_uses_or_views": "1.2M Reels",
+      "structure": "Open on calm/composed version of something, hard cut to chaotic/energetic reveal; perfect for 'boring \u2192 hustle' contrast.",
+      "audio_or_template_link": "Taylor Swift 'The Fate of Ophelia' (1.2M reels) \u2014 creator accounts only",
+      "b2b_fit_score": "4",
+      "ventrix_caption_example": "When a dealership says they don't need faster inventory posting (cut to) Ventrix posting 40 cars before lunch \u26a1"
+    },
+    {
+      "format_name": "'I Just Get So Nervy' Chaotic Energy Loop (Brainrot)",
+      "platform": "TikTok",
+      "estimated_uses_or_views": "2M+ TikTok posts",
+      "structure": "Repetitive, awkward cadence audio paired with stiff/exaggerated movement; use for 'weird but it works' moments.",
+      "audio_or_template_link": "https://www.tiktok.com/discover/trending-meme-templates/",
+      "b2b_fit_score": "3",
+      "ventrix_caption_example": "Salespeople after I show them Ventrix auto-fills their entire Marketplace queue in one work block \ud83d\ude35\u200d\ud83d\udcab"
+    },
+    {
+      "format_name": "'Kinda Chic' Flex Format (Caption-First Meme)",
+      "platform": "Reels / TikTok / X",
+      "estimated_uses_or_views": "3M+ cross-platform posts",
+      "structure": "'Kinda chic to [non-luxury achievement]' \u2014 reframes mundane hustle wins as aspirational.",
+      "audio_or_template_link": "N/A (text-only format)",
+      "b2b_fit_score": "5",
+      "ventrix_caption_example": "Kinda chic to list 50 inventory photos in 8 minutes instead of 4 hours. Kinda chic to have zero data entry errors. Kinda chic to own a dealership that doesn't drown in admin work \ud83d\ude97\u2728"
+    },
+    {
+      "format_name": "Gigachad / Stonks Man Number-Goes-Up (Startup Flex)",
+      "platform": "All (Meme template)",
+      "estimated_uses_or_views": "5M+ annual uses",
+      "structure": "Meme Man in suit pointing at rising arrow graph; shorthand for 'metric improvement' or 'win moment.'",
+      "audio_or_template_link": "https://www.memebuilder.ai/blog/trending-meme-templates-2026",
+      "b2b_fit_score": "5",
+      "ventrix_caption_example": "Lead pings \u2197\ufe0f | Response times \u2197\ufe0f | Manual data entry \u2199\ufe0f | Dealership profitability \u2197\ufe0f\u2197\ufe0f\u2197\ufe0f (Thanks Ventrix)"
+    },
+    {
+      "format_name": "'Some People Call Me\u2026' Expertise Flex (Justin Timberlake 'Summer Love')",
+      "platform": "Reels / TikTok",
+      "estimated_uses_or_views": "900K+ Reels",
+      "structure": "Lip-sync format: list two names people call you, end with 'But You Can Call Me [expertise/title]' \u2192 establishes authority.",
+      "audio_or_template_link": "Justin Timberlake 'Summer Love' (trending Sept 2026)",
+      "b2b_fit_score": "5",
+      "ventrix_caption_example": "Some people call me inventory guy. Others call me post-and-forget salesman. But you can call me the dealer who turned 4 hours of paperwork into 10 minutes of auto-filled dominance \ud83c\udfc6"
+    },
+    {
+      "format_name": "'Ring My Bell' (1979 Disco Abundance Frequency Trend)",
+      "platform": "Reels / All",
+      "estimated_uses_or_views": "277% stream jump; 500K+ Reels uses",
+      "structure": "Bright, confident outfit/lifestyle b-roll synced to upbeat disco track; 'luck/abundance' vibe. Perfect for momentum/winning-season content.",
+      "audio_or_template_link": "Anita Ward 'Ring My Bell' (1979 original) \u2014 trending Sept 2026",
+      "b2b_fit_score": "4",
+      "ventrix_caption_example": "POV: It's Monday, you've already listed 30 cars with Ventrix, and your team's about to have the best sales week of Q3 \u2728\ud83d\udc83"
+    },
+    {
+      "format_name": "'What I Mean When I Say My Hands Are Full' (Busy Hustle Flex)",
+      "platform": "Reels / TikTok",
+      "estimated_uses_or_views": "1.1M+ Reels",
+      "structure": "Hold favorite/important items in one hand; on-screen text explains your workload capacity. Show off stacked wins.",
+      "audio_or_template_link": "Original audio by southwellicecream (trending Sept 2026)",
+      "b2b_fit_score": "5",
+      "ventrix_caption_example": "What I mean when I say my hands are full: 50 car listings posted, 12 lead pings responded to, 3 DMS auto-takedowns, and zero spreadsheets \ud83d\ude97\ud83d\udcf1\ud83d\udcaa"
+    },
+    {
+      "format_name": "'Potential-Maxxing' Hard Numbers Flex (Improvement Proof)",
+      "platform": "Reels / TikTok",
+      "estimated_uses_or_views": "600K+ uses",
+      "structure": "Back self-improvement claims with hard metrics/screenshots instead of vague affirmations. Founder-energy credibility.",
+      "audio_or_template_link": "Trending Instagram/TikTok format (Sept 2026)",
+      "b2b_fit_score": "5",
+      "ventrix_caption_example": "Potential-maxxing my dealership: Before Ventrix (240 min/40 cars) \u2192 After Ventrix (10 min/40 cars). That's 230 min of pure selling time reclaimed. \ud83d\udcc8 Now hiring your next top closer."
+    },
+    {
+      "format_name": "Twins at The Carousel (Deadpan Observer + Chaos Around Head)",
+      "platform": "TikTok / Reels",
+      "estimated_uses_or_views": "2.5M+ posts (since June 2026)",
+      "structure": "Character looks deadpan into camera while animated mini-versions of themselves dance/spin around head; use for 'I'm unbothered while chaos happens' energy.",
+      "audio_or_template_link": "'Twins at The Carousel' audio (trending since mid-June 2026)",
+      "b2b_fit_score": "3",
+      "ventrix_caption_example": "Me, unbothered, watching our DMS alerts ping 24/7 while competitors still manually check email for lead responses \ud83d\ude11"
+    },
+    {
+      "format_name": "Split-Screen 'Spend Dat' Dance Challenge (Interactive Duet Layout)",
+      "platform": "TikTok / Reels",
+      "estimated_uses_or_views": "1.8M+ uses",
+      "structure": "Side-by-side video; one side locked down with your content, other side open for creators to jump into frame. High engagement hook.",
+      "audio_or_template_link": "'Spend Dat' by Yung Miami (trending 2026)",
+      "b2b_fit_score": "3",
+      "ventrix_caption_example": "Left: Me showing Ventrix's 10-15 sec auto-fill | Right: Your dealership's sales team ready to close deals faster than ever \ud83e\udd1d\u26a1"
+    }
+  ],
+  "competitor_signals": [
+    {
+      "competitor": "CARVID",
+      "signal": "Expanded dealership count to 73+ and published verified case study: PA Auto Sales went from 0 to 150+ listings in 48 hours with 3-5x more inquiries than manual posting",
+      "source_url": "https://www.carvidapp.com/",
+      "date_approx": "2026-05-28",
+      "what_it_means": "CARVID is scaling proof of ROI to win tier-1 dealer accounts; social proof through case studies is their acquisition lever.",
+      "ventrix_counter_angle": "\u2705 Ventrix Chrome extension: 1-click Marketplace posting WITHOUT the $249/mo SaaS tax. Real sales reps on your payroll already have browsers open\u2014let them post faster, not slower."
+    },
+    {
+      "competitor": "Shiftly Auto",
+      "signal": "Chrome extension version 4.5 updated July 17, 2026; Trustpilot reviews show 10,000 extension users and positive testimonials from Jan 2025 (users reporting 2-5 sales uplift within 3 months)",
+      "source_url": "https://chromewebstore.google.com/detail/shiftly-auto-lister/ekojgodjldjgppkjnjacbeedofegfioh",
+      "date_approx": "2026-07-17",
+      "what_it_means": "Shiftly maintains steady user growth and testimonial-driven marketing, but demo-gated pricing ($1,000/mo enterprise, ~$149/mo reported) blocks price transparency and community comparison.",
+      "ventrix_counter_angle": "\ud83c\udfaf Ventrix: Transparent, published pricing. No demo calls. No 3-month prepay. Cancel anytime. Let dealers run the numbers themselves\u2014competition fears price transparency."
+    },
+    {
+      "competitor": "CARVID",
+      "signal": "Introduced franchise dealer-specific positioning page (42-15: Integration with CDK, Reynolds, Dealertrack, vAuto, HomeNet); marketing to Ford, Toyota, Honda, Chevy, CDJR dealerships with OEM compliance messaging",
+      "source_url": "https://www.carvidapp.com/franchise-dealer-social-media-tools/",
+      "date_approx": "2026-01-24",
+      "what_it_means": "CARVID is pursuing high-revenue franchise market segment (vs. independents); positioning multi-platform AI video as OEM-compliant alternative to limited OEM social tools.",
+      "ventrix_counter_angle": "\ud83d\ude80 Ventrix: Independent dealers own their data and workflow. No OEM brand police. No approval delays. Chrome extension posts YOUR inventory YOUR way\u2014not what corporate approves."
+    },
+    {
+      "competitor": "AutoLister Pro",
+      "signal": "Published comparison article (July 2026) attacking Shiftly's demo-gated model and 3-month prepay; positioned as transparent alternative with $99/mo pricing and month-to-month terms",
+      "source_url": "https://www.autolisterpro.com/autolister-pro-vs-shiftly-auto",
+      "date_approx": "2026-07-12",
+      "what_it_means": "Competitors are weaponizing Shiftly's pricing opacity; AutoLister Pro is winning on transparency + multi-platform (Marketplace + Instagram + TikTok) at lower entry cost.",
+      "ventrix_counter_angle": "\ud83d\udcb0 Ventrix: We built the cheapest Chrome extension that does the heavy lifting. No yearly contracts, no upfront fees. Pure per-use model with the fastest posting speed in the category."
+    },
+    {
+      "competitor": "Facebook Marketplace enforcement",
+      "signal": "CARVID published updated May 2026 compliance guide: Facebook increased ban severity from 7-day to 30-day for first violation, automatic appeal denial, permanent bans for second violation in 90 days (12-3)",
+      "source_url": "https://www.carvidapp.com/facebook-marketplace-dealer-posting-rules/",
+      "date_approx": "2026-05-01",
+      "what_it_means": "Meta is aggressively policing dealer posting (stricter enforcement Sep 2026 per 12-14). Compliance-first positioning is now table-stakes; tools must enforce posting intervals or dealers lose accounts.",
+      "ventrix_counter_angle": "\ud83d\udee1\ufe0f Ventrix: Built-in rate-limiter prevents bans. Dealers get leads, not suspensions. Every post respects Facebook's 10/day rule automatically\u2014we make compliance invisible."
+    },
+    {
+      "competitor": "Shiftly Auto",
+      "signal": "Trustpilot review from Nov 2024 shows customer complaints about auto-renewal and refund policy disputes; Shiftly responded by expanding backend support team (19-1, 19-4) to handle support tickets",
+      "source_url": "https://www.trustpilot.com/review/www.shiftlyauto.com?page=2",
+      "date_approx": "2026-07-24",
+      "what_it_means": "Shiftly is experiencing customer friction on payment transparency and support responsiveness; expanding support ops is an admission of process friction.",
+      "ventrix_counter_angle": "\ud83d\udcde Ventrix: No gotcha billing. No surprise charges. Customers control their subscription. When dealers ask questions, they talk to the team\u2014not a support queue."
+    },
+    {
+      "competitor": "Market consolidation",
+      "signal": "AutoLander, Owini Vehicle Poster, Relay Autos, and Glo3D all published 2026 comparison pages attacking Shiftly on pricing, transparency, and platform lock-in (25-2, 26-1, 27-2); market fragmented across 8+ vendors",
+      "source_url": "https://autolander.ai/compare/",
+      "date_approx": "2026-09-13",
+      "what_it_means": "Shiftly's $1,000/mo positioning created an underserved market; 6-8 new entrants are stealing share by commoditizing the posting layer with transparent pricing and multi-platform support.",
+      "ventrix_counter_angle": "\ud83c\udfc6 Ventrix: Fastest posting in the segment. Chrome extension native\u2014works where dealers already work. No learning curve. One-click, done. Let the speed sell itself."
+    }
+  ]
+}
