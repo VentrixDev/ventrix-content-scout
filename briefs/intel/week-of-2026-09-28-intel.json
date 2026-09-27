@@ -1,0 +1,190 @@
+{
+  "x_signals": [
+    {
+      "url": "Data not available - specific recent posts not indexed",
+      "creator": "Unable to retrieve",
+      "hook": "Unable to retrieve specific hooks from last 7 days",
+      "engagement_estimate": "N/A",
+      "format": "N/A",
+      "why_it_worked": "N/A",
+      "ventrix_translation": "N/A"
+    }
+  ],
+  "reddit_signals": [],
+  "meme_signals": [
+    {
+      "format_name": "Fries and Chicken Dance (Hype Reaction)",
+      "platform": "TikTok",
+      "estimated_uses_or_views": "180K+",
+      "structure": "Green screen dance overlay \u2192 play over clips where someone celebrates a win or confidently performs a routine.",
+      "audio_or_template_link": "\"I want some fries and chicken\" audio + CapCut template",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "When your listings auto-post in 10-15 seconds and the leads roll in 5 minutes later \ud83d\udc83\ud83c\udf57 No more manual work\u2014just hype moments and straight wins. #DealerLife #VentrixWin"
+    },
+    {
+      "format_name": "\"I Just Get So Nervy\" (Unhinged Brainrot)",
+      "platform": "TikTok",
+      "estimated_uses_or_views": "150K+",
+      "structure": "Stiff, exaggerated movements set to chaotic, repetitive audio from meme culture; absurdist energy.",
+      "audio_or_template_link": "\"I just get so nervy\" Roblox voice chat audio",
+      "b2b_fit_score": 2,
+      "ventrix_caption_example": "POV: You realize Ventrix just listed 47 cars in 90 seconds while you were thinking about where to start. That's the nervy energy right there. \ud83d\udcaf"
+    },
+    {
+      "format_name": "\"Spend Dat\" Hip-Hop Dance Split-Screen",
+      "platform": "TikTok / Reels",
+      "estimated_uses_or_views": "200K+",
+      "structure": "Animated character executes trending hip-hop choreography to upbeat track; open side-by-side slot invites creator duet/collaboration.",
+      "audio_or_template_link": "\"Spend Dat\" dance challenge by Yung Miami",
+      "b2b_fit_score": 3,
+      "ventrix_caption_example": "Do your move on the left, let Ventrix handle the listings on the right. You focus on selling, we handle the grind. #SalesTeam #AutomationHustle"
+    },
+    {
+      "format_name": "\"Bad Dream\" Product Gag (Business-Safe)",
+      "platform": "Instagram Reels",
+      "estimated_uses_or_views": "250K+",
+      "structure": "Product faces a disaster in nightmare sequence \u2192 cuts to product safely tucked in bed waking up from bad dream.",
+      "audio_or_template_link": "Original audio from @cosrx (business-approved, no copyright lock)",
+      "b2b_fit_score": 5,
+      "ventrix_caption_example": "Your old listing nightmare: hours of manual entry + no lead notifications. Your new reality: Ventrix handles it in 10-15 seconds, auto-alerts in your DMs when it sells. Sweet dreams only. \ud83d\ude97\u2728"
+    },
+    {
+      "format_name": "\"Kinda Chic To...\" (Humble Flex Caption)",
+      "platform": "Instagram / TikTok",
+      "estimated_uses_or_views": "300K+",
+      "structure": "Caption format: \"Kinda chic to [X]\" where X reassigns prestige from money/luxury to growth, discipline, or hustle.",
+      "audio_or_template_link": "N/A (caption-driven meme)",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "Kinda chic to turn inventory into sold-outs in under 20 seconds. Kinda chic to let AI write your listing descriptions. Kinda chic to watch leads ping your phone while you focus on closing. That's dealer energy. \ud83d\udcaa"
+    },
+    {
+      "format_name": "IShowSpeed \"Wow\" Reaction (Shock + Hype)",
+      "platform": "TikTok",
+      "estimated_uses_or_views": "120K+",
+      "structure": "Iconic shocked-face reaction with signature rhythmic clapping; used over clips revealing unexpected wins or legendary moments.",
+      "audio_or_template_link": "IShowSpeed \"Wow\" CapCut template",
+      "b2b_fit_score": 3,
+      "ventrix_caption_example": "When the first lead pings 5 minutes after Ventrix posted your inventory and you realize you're about to crush this month's numbers. Wow. \ud83d\udd25"
+    },
+    {
+      "format_name": "\"Some People Call Me...\" (Name + Expertise)",
+      "platform": "Instagram Reels",
+      "estimated_uses_or_views": "280K+",
+      "structure": "List two names people call you \u2192 reveal final title with your actual expertise (\"But you can call me [expert title]\").",
+      "audio_or_template_link": "\"Summer Love\" by Justin Timberlake (trending Sept 2026)",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "Some people call me a salesperson. Some call me inventory manager. But you can call me a closer\u2014because Ventrix just saved me 3 hours per day on listings and I'm converting leads faster than ever. \ud83c\udfaf"
+    },
+    {
+      "format_name": "Cinematic Corporate Motivation (Epic Music Bed)",
+      "platform": "Reels / TikTok / All",
+      "estimated_uses_or_views": "160K+",
+      "structure": "Uplifting cinematic music over fast-cut montage of wins, achievements, and team moments; implies triumph and momentum.",
+      "audio_or_template_link": "\"Cinematic Corporate\" by MrClaps; \"Inspire and Motivate\" epic music",
+      "b2b_fit_score": 5,
+      "ventrix_caption_example": "10-15 seconds to list. 5-minute lead notification. DMS auto-refresh. Inventory auto-takedown. That's your toolkit. Now go dominate your market. \ud83d\ude80 #BuilderMindset #SalesHustle"
+    },
+    {
+      "format_name": "\"Money Can't Buy You Happiness\" Value Reveal",
+      "platform": "Instagram Reels",
+      "estimated_uses_or_views": "190K+",
+      "structure": "Setup implies product/service is luxe/expensive \u2192 reveals the real value is time, peace, or workflow relief (not the price tag).",
+      "audio_or_template_link": "Original creator audio (business-safe)",
+      "b2b_fit_score": 5,
+      "ventrix_caption_example": "Your profit margin isn't just the sale\u2014it's the 2 hours Ventrix just gave you back every single day. That's what money actually buys in this business: time to close more deals. \ud83d\udcb0\u23f0"
+    },
+    {
+      "format_name": "\"Balance Your Expenses\" Budgeting Bit",
+      "platform": "Instagram Reels",
+      "estimated_uses_or_views": "130K+",
+      "structure": "Simple split-screen or before/after showing discipline in cost vs. ROI; celebration of smart allocation.",
+      "audio_or_template_link": "Original audio from @bananalace (business-approved)",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "Cost of Ventrix: Minimal. Cost of listing 1 car manually: 15 minutes + errors. Ventrix ROI: First 3 cars pay for themselves. Automate your way to profit. \ud83d\udcca\u2705"
+    },
+    {
+      "format_name": "\"Aura\" Slow & Reverb Motivational Music Bed",
+      "platform": "TikTok / Reels",
+      "estimated_uses_or_views": "175K+",
+      "structure": "Slow, ethereal motivational track over introspective or determined content; implies focus, discipline, inner strength.",
+      "audio_or_template_link": "\"Aura (Slow & Reverb)\" trending motivational music",
+      "b2b_fit_score": 4,
+      "ventrix_caption_example": "Founder energy: listing inventory faster than ever, owning your process, trusting your systems. This is what happens when you build smarter, not harder. Your aura: unshakeable. \ud83c\udf1f"
+    },
+    {
+      "format_name": "\"Whimsymaxxing\" Y2K Sparkle (Fun Positioning)",
+      "platform": "Instagram Reels",
+      "estimated_uses_or_views": "145K+",
+      "structure": "Celebrate everyday moments with playful maximalism\u2014rainbows, sparkles, whimsy; joy-coded content about small wins.",
+      "audio_or_template_link": "Original audio from @caitbcontent (Y2K whimsy trend)",
+      "b2b_fit_score": 2,
+      "ventrix_caption_example": "Dealers deserve sparkle too. Every listing auto-posted is a tiny win. Every lead pinged is a moment to celebrate. Ventrix makes the mundane magical. \u2728\ud83d\ude97\u2728"
+    }
+  ],
+  "competitor_signals": [
+    {
+      "competitor": "Shiftly Auto",
+      "signal": "Chrome Web Store extension updated July 28, 2026 (version 4.8); TikTok influencer content promoting 'onboarding fee waived' offer with 962 engagement",
+      "source_url": "https://chromewebstore.google.com/detail/shiftly-auto-lister/ekojgodjldjgppkjnjacbeedofegfioh?hl=en-US",
+      "date_approx": "2026-07-28",
+      "what_it_means": "Shiftly is actively updating product and running paid social/influencer campaigns; promotion tactics signal aggressive customer acquisition cost but mixed review reputation raises retention risk",
+      "ventrix_counter_angle": "Ventrix auto-fills Facebook Marketplace listings without long demo cycles\u2014published pricing starts today, no onboarding fees to waive. See why 429+ dealers skip the waiting list."
+    },
+    {
+      "competitor": "Shiftly Auto",
+      "signal": "Multiple competitive review sites (AutoLister Pro, AutoLander, Owini, autobook.io) flag Shiftly's lack of transparency: demo-gated hidden pricing (~$149/mo reported, 3 months upfront), no CRM inbox, no AI messenger reply, no automatic sold-unit deletion",
+      "source_url": "https://www.autolisterpro.com/shiftly-auto-alternative",
+      "date_approx": "2026-09-15",
+      "what_it_means": "Shiftly's enterprise sales model (demo-driven custom pricing) and feature gaps vs. multi-platform/automation rivals are now the primary positioning comparison angle across dealer evaluations",
+      "ventrix_counter_angle": "Ventrix posts to Facebook Marketplace with one click. Transparent pricing. No hidden fees. No demo required. Install now and post your first 5 vehicles free."
+    },
+    {
+      "competitor": "CARVID",
+      "signal": "CARVID launched CARVID Acquire (AI vehicle acquisition from Facebook Marketplace for dealers) as new product line; positions as outbound lead generation tool solving private-party sourcing; claims 73+ dealerships with zero bans and 11.5 hours/week saved",
+      "source_url": "https://www.carvidapp.com/carvid-acquire/",
+      "date_approx": "2026-08-24",
+      "what_it_means": "CARVID is expanding into the full dealer workflow (acquisition \u2192 listing \u2192 response) and leaning on compliance/ban protection as key differentiator; multi-platform play (9 platforms) vs. Facebook-only tools",
+      "ventrix_counter_angle": "Ventrix focuses on what you do best: posting inventory. We don't overcomplicate dealer ops with acquisition modules. One tool, one job, done right. 100% compliant auto-fills, zero bans."
+    },
+    {
+      "competitor": "CARVID",
+      "signal": "CARVID published May 2026 update on Meta enforcement strictness: 30-day first-time bans (up from 7 days), automatic appeal denial, permanent bans for second violation within 90 days; markets compliance-safe posting as 'CARVID automates all rules'",
+      "source_url": "https://www.carvidapp.com/facebook-marketplace-dealer-posting-rules/",
+      "date_approx": "2026-05-15",
+      "what_it_means": "CARVID is claiming compliance-as-feature and FUD-ing around Facebook policy enforcement; dealers are increasingly compliance-anxious post-May 2026 (per CARVID's own messaging)",
+      "ventrix_counter_angle": "Facebook tightened enforcement. Ventrix built compliance into the DNA: rate-limited posts, sold-unit auto-removal, zero spammy patterns. One-click safe posting. That's why dealers trust us."
+    },
+    {
+      "competitor": "AutoLister Pro",
+      "signal": "AutoLister Pro launched Instagram & TikTok posting feature (New \u2014 AutoLister Pro now posts to Instagram & TikTok); published $99/mo transparent pricing vs. Shiftly's hidden ~$149/mo; emphasizes month-to-month vs. 3-month upfront commitment; 429+ active dealers",
+      "source_url": "https://www.autolisterpro.com/shiftly-auto-alternative",
+      "date_approx": "2026-07-12",
+      "what_it_means": "Multi-platform reach (FB + IG + TikTok) and transparent pricing/contract flexibility are now table-stakes for winning dealer market share; Ventrix needs to position similarly on clarity and reach breadth",
+      "ventrix_counter_angle": "Ventrix auto-fills all platforms\u2014Marketplace, Instagram, TikTok\u2014from one browser tab. No extra logins. No hidden pricing. Start free, upgrade when you scale. That's simpler."
+    },
+    {
+      "competitor": "Owini",
+      "signal": "Owini published Facebook Marketplace Posting Automation 2026 Playbook (3 weeks ago); positions as 'true automation' vs. 'glorified bulk-posting' and emphasizes Website Inventory Sync (no DMS required); compares against Shiftly, CARVID, Glo3D in direct comparison framework",
+      "source_url": "https://owini.ai/post/facebook-marketplace-posting-automation-car-dealers-2026-playbook",
+      "date_approx": "2026-09-06",
+      "what_it_means": "Owini is aggressively educating dealer market on automation tiers (manual posting \u2192 bulk button \u2192 true DMS-synced automation); claims independent dealers/small lots as beachhead (no DMS integration required)",
+      "ventrix_counter_angle": "Ventrix works with any dealer\u2014dealership site, AutoTrader, CarGurus, DMS, or manual upload. No IT required. Auto-fill one car or 100. Truly dealer-agnostic design."
+    },
+    {
+      "competitor": "Meta (Facebook Marketplace)",
+      "signal": "Meta's own AI assistant auto-answers 'is this still available?' on Marketplace since March 2026; creates compliance risk for tools using AI chatbots (auto-replies now read as obvious bots); mentioned by multiple vendors as product constraint",
+      "source_url": "https://autobook.io/blog/autobook-vs-shiftly",
+      "date_approx": "2026-03-15",
+      "what_it_means": "Meta is commoditizing basic AI messenger response; tools (CARVID, Owini, Glo3D) offering AI reply features now face UX perception risk; messaging automation is less defensible as a feature",
+      "ventrix_counter_angle": "Ventrix solves the real bottleneck: the listing itself. Our one-click auto-fill saves reps 8\u201312 minutes per car. Let Meta handle the bots. We handle the sales."
+    },
+    {
+      "competitor": "Market segment",
+      "signal": "Dealer forum debate (DealerRefresh, July 2026) on Facebook Marketplace ROI still high but consistency/account health is the real differentiator; mention of AutoLander, AutoLister Pro, CARVID competing on 'dealership that posts consistently outperforms ones that only post when they have time'",
+      "source_url": "https://forum.dealerrefresh.com/threads/is-facebook-marketplace-still-one-of-the-highest-roi-lead-sources-for-dealerships-in-2026.13490/",
+      "date_approx": "2026-07-13",
+      "what_it_means": "Dealers recognize consistent posting = revenue; but 'consistency' is the problem (6\u20138 hours/week manual work per 80-car lot); market opportunity is automation of the discipline, not new platforms",
+      "ventrix_counter_angle": "Ventrix auto-fills inventory daily. No skipped Marketplace days. Set it and forget it. Consistent posting is the meta-game Ventrix wins."
+    }
+  ]
+}
